@@ -1,0 +1,7 @@
+encoded/
+results/
+.idea/
+__pycache__/
+results/
+ffmpeg/
+temp.txt
